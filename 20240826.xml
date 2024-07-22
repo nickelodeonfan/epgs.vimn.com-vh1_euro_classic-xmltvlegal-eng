@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" source-info-name="Magic button (EUW1Z2XAW16VP5)" xsi:noNamespaceSchemaLocation="http://epgs.vimn.com/xsd/ViacomXmlTv.xsd">
+  <channel id="MTV 80s">
+    <display-name lang="en">MTV 80s</display-name>
+  </channel>
+  <programme is_live="false" start="20240826070000 +0200" air_time_start="20240826070000 +0200" air_time_end="20240826100000 +0200" stop="20240826100000 +0200" start_utc="20240826050000 +0000" stop_utc="20240826080000 +0000" air_time_start_utc="20240826050000 +0000" air_time_end_utc="20240826080000 +0000" channel="MTV 80s">
+    <title lang="en">I Want My MTV 80s!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>I Want My MTV 80s!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">It's non-stop global nostalgia right here at MTV 80s - and that's what we want, right now!</desc_short>
+    <keywords />
+    <dvb_event_id>18793760077668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">10800</length>
+    <production-country />
+    <audio_list />
+    <identifier>9014341411527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240826100000 +0200" air_time_start="20240826100000 +0200" air_time_end="20240826150000 +0200" stop="20240826150000 +0200" start_utc="20240826080000 +0000" stop_utc="20240826130000 +0000" air_time_start_utc="20240826080000 +0000" air_time_end_utc="20240826130000 +0000" channel="MTV 80s">
+    <title lang="en">Global No.1s Of The 80s! Top 50</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Global No.1s Of The 80s! Top 50</original-title>
+    <original-episode-title />
+    <desc_short lang="en">We've been around the world and we're... counting down the biggest hits that made it to the Top Spot across the globe in the 1980s!</desc_short>
+    <keywords />
+    <dvb_event_id>18793760217668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">18000</length>
+    <production-country />
+    <audio_list />
+    <identifier>10405881200527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240826150000 +0200" air_time_start="20240826150000 +0200" air_time_end="20240826160000 +0200" stop="20240826160000 +0200" start_utc="20240826130000 +0000" stop_utc="20240826140000 +0000" air_time_start_utc="20240826130000 +0000" air_time_end_utc="20240826140000 +0000" channel="MTV 80s">
+    <title lang="en">Power Ballad Heaven!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Power Ballad Heaven!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">We have nothing but wall-to-wall power ballad heaven for your listening pleasure. Expect big hair, wind machines and some super key changes!</desc_short>
+    <keywords />
+    <dvb_event_id>18793760555668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">3600</length>
+    <production-country />
+    <audio_list />
+    <identifier>2411012762527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240826160000 +0200" air_time_start="20240826160000 +0200" air_time_end="20240826210000 +0200" stop="20240826210000 +0200" start_utc="20240826140000 +0000" stop_utc="20240826190000 +0000" air_time_start_utc="20240826140000 +0000" air_time_end_utc="20240826190000 +0000" channel="MTV 80s">
+    <title lang="en">50 Lessons In 80s Love!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>50 Lessons In 80s Love!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">Fall in love with 50 of the most romantic hits of the 80s!</desc_short>
+    <keywords />
+    <dvb_event_id>18793760656668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>false</ott_mobile>
+    <ott_internet>false</ott_internet>
+    <tve_mobile>false</tve_mobile>
+    <tve_internet>false</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>false</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">18000</length>
+    <production-country />
+    <audio_list />
+    <identifier>10316859831527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240826210000 +0200" air_time_start="20240826210000 +0200" air_time_end="20240826220000 +0200" stop="20240826220000 +0200" start_utc="20240826190000 +0000" stop_utc="20240826200000 +0000" air_time_start_utc="20240826190000 +0000" air_time_end_utc="20240826200000 +0000" channel="MTV 80s">
+    <title lang="en">I Want My MTV 80s!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>I Want My MTV 80s!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">It's non-stop global nostalgia right here at MTV 80s - and that's what we want, right now!</desc_short>
+    <keywords />
+    <dvb_event_id>18793760886668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">3600</length>
+    <production-country />
+    <audio_list />
+    <identifier>9014341411527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240826220000 +0200" air_time_start="20240826220000 +0200" air_time_end="20240827030000 +0200" stop="20240827030000 +0200" start_utc="20240826200000 +0000" stop_utc="20240827010000 +0000" air_time_start_utc="20240826200000 +0000" air_time_end_utc="20240827010000 +0000" channel="MTV 80s">
+    <title lang="en">Sinitta's 80s School Disco!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>Sinitta's 80s School Disco!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">...Top 50. 80s legend Sinitta comes in to MTV HQ to bring you her 80s School Disco! Featuring classic tunes from Whitney Houston, Bros, Madonna and many more!</desc_short>
+    <keywords />
+    <dvb_event_id>18793761077668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>false</ott_mobile>
+    <ott_internet>false</ott_internet>
+    <tve_mobile>false</tve_mobile>
+    <tve_internet>false</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>false</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">18000</length>
+    <production-country />
+    <audio_list />
+    <identifier>9212790416527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+  <programme is_live="false" start="20240827030000 +0200" air_time_start="20240827030000 +0200" air_time_end="20240827050000 +0200" stop="20240827050000 +0200" start_utc="20240827010000 +0000" stop_utc="20240827030000 +0000" air_time_start_utc="20240827010000 +0000" air_time_end_utc="20240827030000 +0000" channel="MTV 80s">
+    <title lang="en">I Want My MTV 80s!</title>
+    <sub-title lang="en"></sub-title>
+    <original-title>I Want My MTV 80s!</original-title>
+    <original-episode-title />
+    <desc_short lang="en">It's non-stop global nostalgia right here at MTV 80s - and that's what we want, right now!</desc_short>
+    <keywords />
+    <dvb_event_id>18793761996668</dvb_event_id>
+    <dvbsi_genre level1="0x6" level2="0x1" />
+    <ott_mobile>true</ott_mobile>
+    <ott_internet>true</ott_internet>
+    <tve_mobile>true</tve_mobile>
+    <tve_internet>true</tve_internet>
+    <vod_catchup>false</vod_catchup>
+    <start_over>true</start_over>
+    <npvr>false</npvr>
+    <production_year></production_year>
+    <credits />
+    <category>Music - Rock &amp; Pop</category>
+    <length units="seconds">7200</length>
+    <production-country />
+    <audio_list />
+    <identifier>9014341411527</identifier>
+    <video>
+      <aspect>4:3</aspect>
+      <quality />
+    </video>
+    <subtitles />
+    <audio_described>false</audio_described>
+    <invision_signing>false</invision_signing>
+  </programme>
+</tv>
